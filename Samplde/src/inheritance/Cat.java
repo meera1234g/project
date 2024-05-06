@@ -9,6 +9,7 @@ public class Cat extends Animal {
 		// TODO Auto-generated method stub
 	Cat obj = new Cat();
 	obj.Sample();
+	
 	System.out.println(obj.color);
 	System.out.println(obj.s);
 	}
